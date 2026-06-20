@@ -1,4 +1,5 @@
 # 📄 AI-Powered PDF Analyzer & Parser
+### 🚀 Modern OOP Mimari • Katmanlı Test Otomasyonu (Pytest) • Google Gemini LLM API Entegrasyonu
 
 Modern Nesne Yönelimli Programlama (OOP) prensipleriyle tasarlanmış, tam kapsamlı ve katmanlı otomatik test otomasyonuna (Pytest) sahip, Google Gemini LLM API entegrasyonlu ve Streamlit tabanlı kurumsal bir PDF analiz, dijitalleştirme ve işleme sistemidir.
 
@@ -8,9 +9,6 @@ Bu proje; gevşek bağlılık (Loose Coupling), yüksek modülerlik, Test Güdü
 
 <div align="center">
 
-# 📄 AI-POWERED PDF ANALYZER & PARSER
-
-### 🚀 Modern OOP Mimari • Katmanlı Test Otomasyonu (Pytest) • Google Gemini LLM API Entegrasyonu
 
 **[🌐 CANLI UYGULAMAYI TARAYICIDA AÇIN (LIVE DEMO) →](https://pdf-analyzer-hktrdgmmnwqrdxg8bwgbw7.streamlit.app/)**
 
