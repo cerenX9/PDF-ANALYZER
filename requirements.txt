@@ -3,3 +3,4 @@ pypdf
 pdfplumber
 pytest
 pytest-cov
+google-genai
