@@ -12,7 +12,7 @@ Bu proje; gevşek bağlılık (Loose Coupling), yüksek modülerlik, Test Güdü
 
 ### 🚀 Modern OOP Mimari • Katmanlı Test Otomasyonu (Pytest) • Google Gemini LLM API Entegrasyonu
 
-**[🌐 CANLI UYGULAMAYI TARAYICIDA AÇIN (LIVE DEMO) →](https://markdown-pdf-converter-ezn3i95izf832goz5zstt6.streamlit.app/)**
+**[🌐 CANLI UYGULAMAYI TARAYICIDA AÇIN (LIVE DEMO) →](https://pdf-analyzer-hktrdgmmnwqrdxg8bwgbw7.streamlit.app/)**
 
 *Gelişmiş Nesne Yönelimli Programlama (OOP) prensipleriyle tasarlanmış, tam kapsamlı otomatik test süreçlerine ve Streamlit tabanlı dinamik kullanıcı arayüzüne sahip kurumsal PDF işleme platformu.*
 
