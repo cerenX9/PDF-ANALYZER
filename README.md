@@ -9,11 +9,12 @@ Bu proje; gevşek bağlılık (Loose Coupling), yüksek modülerlik, Test Güdü
 
 <div align="center">
 
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-**[🌐 CANLI UYGULAMAYI TARAYICIDA AÇIN (LIVE DEMO) →](https://pdf-analyzer-hktrdgmmnwqrdxg8bwgbw7.streamlit.app/)**
+**[🌐 CANLI UYGULAMAYI TARAYICIDA AÇIN🚀 (LIVE DEMO) →](https://pdf-analyzer-hktrdgmmnwqrdxg8bwgbw7.streamlit.app/)**
 
 *Gelişmiş Nesne Yönelimli Programlama (OOP) prensipleriyle tasarlanmış, tam kapsamlı otomatik test süreçlerine ve Streamlit tabanlı dinamik kullanıcı arayüzüne sahip kurumsal PDF işleme platformu.*
-
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 ---
 </div>
 
