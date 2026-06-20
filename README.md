@@ -15,7 +15,6 @@ Bu proje; gevşek bağlılık (Loose Coupling), yüksek modülerlik, Test Güdü
 
 *Gelişmiş Nesne Yönelimli Programlama (OOP) prensipleriyle tasarlanmış, tam kapsamlı otomatik test süreçlerine ve Streamlit tabanlı dinamik kullanıcı arayüzüne sahip kurumsal PDF işleme platformu.*
 
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 ---
 </div>
 
