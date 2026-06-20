@@ -55,5 +55,8 @@ def test_text_analyzer_turkish_characters():
     text = "ŞEMSİYE şemsiye Çilek çilek"
     analyzer = TextAnalyzer(text)
     common = analyzer.get_most_common_words(top_n=2)
-    assert common[0][0] == "şemsiye"
-    assert common[0][1] == 2
+    
+    # Kelimeleri ve frekanslarını sözlük yapısına çevirerek kontrol etmek en güvenlisidir
+    word_dict = dict(common)
+    assert word_dict["şemsiye"] == 2
+    assert word_dict["çilek"] == 2

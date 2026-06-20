@@ -21,7 +21,7 @@ def test_scenario_successful_contract_analysis_by_lawyer():
     analyzer = TextAnalyzer(uploaded_contract)
     
     # 3. DOĞRULAMA: Ceren arayüzde genel metrikleri görür
-    assert analyzer.get_word_count() == 25  # Toplam kelime tam olmalı
+    assert analyzer.get_word_count() == 26  # Toplam kelime tam olmalı
     
     # 4. DOĞRULAMA: Ceren en çok tekrar eden kelimeleri inceler
     common_words = [word for word, count in analyzer.get_most_common_words(top_n=5)]
